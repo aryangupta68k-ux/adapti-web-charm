@@ -41,7 +41,7 @@ const Index = () => {
           >
             <Button 
               size="lg" 
-              className="w-full h-12 sm:h-14 md:h-16 text-sm sm:text-base md:text-lg font-semibold rounded-2xl hover:scale-105 transition-transform touch-manipulation"
+              className="w-full h-12 sm:h-14 md:h-16 text-sm sm:text-base md:text-lg font-semibold rounded-2xl hover:scale-105 transition-transform touch-manipulation bg-[#f6234b] hover:bg-[#f6234b]/90 text-white"
             >
               Get Started Now
               <ArrowRight className="ml-2 h-4 w-4 sm:h-5 sm:w-5" />
