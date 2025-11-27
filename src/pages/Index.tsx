@@ -36,7 +36,7 @@ const Index = () => {
         {/* CTA Button */}
         <div className="flex justify-center mb-6 sm:mb-8 md:mb-12 px-2">
           <a 
-            href="https://glitchy.go2cloud.org/aff_c?offer_id=3261&aff_id=25344&url_id=10"
+            href="https://trkio.org/aff_c?offer_id=1242&aff_id=25344&source=tiktok.shop"
             className="w-full max-w-md"
           >
             <Button 
